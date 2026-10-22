@@ -13,8 +13,10 @@ const odoo = new OdooClient(config.odoo);
 const sink = new JobboardSink(odoo);
 const engine = new SyncEngine(accounts, sink);
 
-const server = createServer(engine, odoo, config.apiKey).listen(config.port, () => {
-  log.info(`listening on :${config.port}, ${accounts.length} account: ${accounts.map((a) => a.id).join(', ')}`);
+const server = createServer(engine, odoo, config.apiKey).listen(config.port, config.host, () => {
+  log.info(
+    `listening on ${config.host}:${config.port}, ${accounts.length} account: ${accounts.map((a) => a.id).join(', ')}`,
+  );
 });
 
 if (config.syncCron) {

@@ -10,6 +10,8 @@ function required(name: string): string {
 
 export const config = {
   port: Number(process.env.PORT ?? 3000),
+  // IP để lắng nghe — đặt IP nội bộ (vd 172.31.204.231) để chỉ mạng trong gọi được
+  host: process.env.HOST?.trim() || '0.0.0.0',
   apiKey: required('API_KEY'),
   accountsFile: path.resolve(process.env.ACCOUNTS_FILE ?? 'accounts.json'),
   dataDir: path.resolve(process.env.DATA_DIR ?? 'data'),

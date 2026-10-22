@@ -1,0 +1,54 @@
+records: 324
+_tab | string | 324/324 | "open"
+degree_id | number | 324/324 | 3
+exact_num | number | 304/324 | 2
+folder_id | string/null | 324/324 | "35CF110A"
+folder_num_suitable_new | null/number | 304/324 | 0
+folder_num_unsuitable_new | number/null | 304/324 | 8
+high_num | number | 304/324 | 3
+is_copy | number | 20/324 | 1
+job_active_date | string/null | 324/324 | "21-10-2026"
+job_active_user | string/null | 324/324 | "hr.XXXXXXXXXX"
+job_apply_by_email | number | 304/324 | (đã ẩn)
+job_apply_not_delete | number | 304/324 | 8
+job_apply_num | number | 304/324 | 8
+job_code | string/null | 304/324 | "CĐS"
+job_experience | number/null | 324/324 | 3
+job_expiration_date | string | 304/324 | "20-11-2026"
+job_from_age | number | 324/324 | 22
+job_from_salary | number | 324/324 | 15000000
+job_gender | number | 324/324 | 0
+job_id | string | 324/324 | "35C8B6D9"
+job_id_rws | null | 304/324 | 
+job_industry | string | 324/324 | "31,11,67"
+job_industry_name | string | 20/324 | (đã ẩn)
+job_industry_name_en | string | 324/324 | (đã ẩn)
+job_industry_name_vn | string | 304/324 | (đã ẩn)
+job_is_experience | number | 324/324 | 1
+job_is_filter | number | 324/324 | 0
+job_is_public | number | 304/324 | 1
+job_location | string | 324/324 | "8"
+job_location_name_en | string | 304/324 | (đã ẩn)
+job_location_name_vn | string | 304/324 | (đã ẩn)
+job_not_pro_date | string/null | 324/324 | "20-11-2026"
+job_salary_unit | string | 324/324 | "vnd"
+job_search_num | number | 304/324 | 0
+job_state | number | 20/324 | 0
+job_title | string | 324/324 | "Graphic Designer - Chuyên Viên Thiết Kế"
+job_to_age | number | 324/324 | 30
+job_to_experience | number/null | 324/324 | 4
+job_to_salary | number | 324/324 | 20000000
+job_type | string | 324/324 | "1000"
+job_view_num | number | 324/324 | 61
+job_working_type | string | 324/324 | "0000"
+level_id | number | 324/324 | 4
+location_name | string | 20/324 | (đã ẩn)
+location_name_en | string | 20/324 | (đã ẩn)
+low_num | number | 304/324 | 0
+medium_num | number | 304/324 | 2
+not_exact_num | number | 304/324 | 0
+not_viewed | number | 304/324 | 8
+owner | string | 304/324 | "kiemviec"
+resume_matched_num | number/null | 324/324 | 15634
+updated_at | string | 20/324 | "2026-10-20T13:52:07.381Z"
+user_id | string | 324/324 | "hr.XXXXXXXXXX"

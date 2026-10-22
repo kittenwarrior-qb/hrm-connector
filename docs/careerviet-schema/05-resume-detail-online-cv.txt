@@ -1,0 +1,162 @@
+records: 1
+abroad_country_ids | array | 1/1 | "[23]"
+consented_at | null | 1/1 | 
+cs_is_assigned | number | 1/1 | 0
+folder_id | string | 1/1 | "35CEE0F1"
+folder_name | string | 1/1 | (đã ẩn)
+folder_resume_created_at | string | 1/1 | "2026-10-18T16:54:03.356Z"
+folder_resume_id | string | 1/1 | "3817B59C"
+folder_resume_note_content | null | 1/1 | 
+folder_resume_status | number | 1/1 | 0
+folder_resume_target | number | 1/1 | 0
+folder_resume_type | number | 1/1 | 0
+folder_resume_viewed | number | 1/1 | 1
+folder_type | number | 1/1 | 1
+is_consented | boolean | 1/1 | false
+job_id | string | 1/1 | "35C88A2E"
+job_resume_coincidence | number | 1/1 | 77
+jobseeker_address | string | 1/1 | (đã ẩn)
+jobseeker_address_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_avatar | null | 1/1 | (đã ẩn)
+jobseeker_birthday | string | 1/1 | (đã ẩn)
+jobseeker_country_name_en | string | 1/1 | (đã ẩn)
+jobseeker_country_name_vn | string | 1/1 | (đã ẩn)
+jobseeker_district_name_en | string | 1/1 | (đã ẩn)
+jobseeker_district_name_vn | string | 1/1 | (đã ẩn)
+jobseeker_email | string | 1/1 | (đã ẩn)
+jobseeker_email_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_first_name | string | 1/1 | (đã ẩn)
+jobseeker_fullname | string | 1/1 | (đã ẩn)
+jobseeker_fullname_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_gender | number | 1/1 | 1
+jobseeker_id | string | 1/1 | "3623E1B8"
+jobseeker_is_avatar | number | 1/1 | (đã ẩn)
+jobseeker_last_active_date | string | 1/1 | "2026-10-18T16:35:17.980Z"
+jobseeker_last_name | string | 1/1 | (đã ẩn)
+jobseeker_location_name_en | string | 1/1 | (đã ẩn)
+jobseeker_location_name_vn | string | 1/1 | (đã ẩn)
+jobseeker_marital | number | 1/1 | 0
+jobseeker_marital_is_private | boolean | 1/1 | false
+jobseeker_mobile | string | 1/1 | (đã ẩn)
+jobseeker_mobile_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_nationality_en | string | 1/1 | "Vietnamese"
+jobseeker_nationality_vn | string | 1/1 | "Người Việt Nam"
+jobseeker_status | number | 1/1 | 1
+letter_content | string | 1/1 | (đã ẩn)
+policy_name | null | 1/1 | (đã ẩn)
+policy_version_no | null | 1/1 | 
+resume_activities | array | 1/1 | 
+resume_addition_info_vn | null | 1/1 | 
+resume_attachment_url | null | 1/1 | 
+resume_benefit_is_private | boolean | 1/1 | false
+resume_benefits | array | 1/1 | "[obj×3]"
+resume_benefits[].benefit_id | number | 3/1 | 2
+resume_benefits[].benefit_name_en | string | 3/1 | (đã ẩn)
+resume_benefits[].benefit_name_vn | string | 3/1 | (đã ẩn)
+resume_benefits[].resume_benefit_date | string | 3/1 | "2026-09-29T17:00:00.000Z"
+resume_certificates | array | 1/1 | (đã ẩn)
+resume_certificates[].certificate_expiration_date | string | 1/1 | (đã ẩn)
+resume_certificates[].certificate_id | number | 1/1 | (đã ẩn)
+resume_certificates[].certificate_issued_by | string | 1/1 | (đã ẩn)
+resume_certificates[].certificate_issued_date | string | 1/1 | (đã ẩn)
+resume_certificates[].certificate_name | string | 1/1 | (đã ẩn)
+resume_confidential | null | 1/1 | 
+resume_countries | array | 1/1 | "[obj×1]"
+resume_countries[].country_id | number | 1/1 | 23
+resume_countries[].country_name | string | 1/1 | (đã ẩn)
+resume_credit | number | 1/1 | 2
+resume_degree_id | number | 1/1 | 4
+resume_degree_name_en | string | 1/1 | (đã ẩn)
+resume_degree_name_vn | string | 1/1 | (đã ẩn)
+resume_districts | array | 1/1 | "[obj×1]"
+resume_districts[].districts | array | 1/1 | "[obj×1]"
+resume_districts[].districts[].district_id | null | 1/1 | 
+resume_districts[].districts[].district_name_en | string | 1/1 | (đã ẩn)
+resume_districts[].districts[].district_name_vn | string | 1/1 | (đã ẩn)
+resume_districts[].location_id | number | 1/1 | 8
+resume_districts[].location_name | string | 1/1 | (đã ẩn)
+resume_districts[].location_name_en | string | 1/1 | (đã ẩn)
+resume_educations | array | 1/1 | "[obj×1]"
+resume_educations[].edu_degree_id | number | 1/1 | (đã ẩn)
+resume_educations[].edu_degree_name_en | string | 1/1 | (đã ẩn)
+resume_educations[].edu_degree_name_vn | string | 1/1 | (đã ẩn)
+resume_educations[].edu_desc_en | null | 1/1 | (đã ẩn)
+resume_educations[].edu_desc_vn | null | 1/1 | (đã ẩn)
+resume_educations[].edu_id | number | 1/1 | (đã ẩn)
+resume_educations[].edu_month_finished | null | 1/1 | (đã ẩn)
+resume_educations[].edu_name_en | null | 1/1 | (đã ẩn)
+resume_educations[].edu_name_vn | string | 1/1 | (đã ẩn)
+resume_educations[].edu_year_finished | null | 1/1 | (đã ẩn)
+resume_emp_view | object | 1/1 | 
+resume_emp_view.is_viewed | boolean | 1/1 | true
+resume_emp_view.view_by | string | 1/1 | "apply"
+resume_experiences | array | 1/1 | "[obj×2]"
+resume_experiences[].exp_city_en | null | 2/1 | 
+resume_experiences[].exp_city_vn | null | 2/1 | 
+resume_experiences[].exp_company_en | null | 2/1 | 
+resume_experiences[].exp_company_vn | string | 2/1 | "XBoss"
+resume_experiences[].exp_id | number | 2/1 | 30070374
+resume_experiences[].exp_month_end | string | 2/1 | "12"
+resume_experiences[].exp_month_start | string | 2/1 | "9"
+resume_experiences[].exp_title_en | null | 2/1 | 
+resume_experiences[].exp_title_vn | string | 2/1 | "Lập Trinh Viên Backend Developer"
+resume_experiences[].exp_work_desc_en | null | 2/1 | (đã ẩn)
+resume_experiences[].exp_work_desc_vn | string | 2/1 | (đã ẩn)
+resume_experiences[].exp_working_type | null/string | 2/1 | "1000"
+resume_experiences[].exp_year_end | string | 2/1 | "2025"
+resume_experiences[].exp_year_start | string | 2/1 | "2025"
+resume_good_cv_config | object | 1/1 | 
+resume_good_cv_config.cv_color | string | 1/1 | "23"
+resume_good_cv_config.cv_cover | number | 1/1 | 0
+resume_good_cv_config.cv_font | string | 1/1 | "Roboto"
+resume_good_cv_config.cv_language | string | 1/1 | "en"
+resume_good_cv_config.cv_size | string | 1/1 | "fontCVsize14"
+resume_good_cv_config.cv_template | string | 1/1 | "3"
+resume_headline_en | null | 1/1 | 
+resume_headline_vn | string | 1/1 | "Junior .NET Developer"
+resume_id | string | 1/1 | "37745F87"
+resume_industries | array | 1/1 | "[obj×1]"
+resume_industries[].industry_id | number | 1/1 | 1
+resume_industries[].industry_name_en | string | 1/1 | (đã ẩn)
+resume_industries[].industry_name_vn | string | 1/1 | (đã ẩn)
+resume_is_bad | number | 1/1 | 0
+resume_is_good_cv | number | 1/1 | 1
+resume_is_hidden | boolean | 1/1 | false
+resume_is_urgent_job | number | 1/1 | 0
+resume_job_orders | array | 1/1 | 
+resume_kind | number | 1/1 | 0
+resume_languages | array | 1/1 | "[obj×1]"
+resume_languages[].certification | string | 1/1 | "IELTS 6.0"
+resume_languages[].level | number | 1/1 | 3
+resume_languages[].type | number | 1/1 | 1
+resume_last_company | string | 1/1 | "FPT-Software"
+resume_last_job | string | 1/1 | "Lập Trình Fullstack"
+resume_last_modify | string | 1/1 | "2026-10-18T16:54:03.140Z"
+resume_level_id | number | 1/1 | 3
+resume_level_name_en | string | 1/1 | (đã ẩn)
+resume_level_name_vn | string | 1/1 | (đã ẩn)
+resume_lock_search | number | 1/1 | 0
+resume_objective_vn | null | 1/1 | 
+resume_owner | string | 1/1 | "kiemviec"
+resume_present_level_id | number | 1/1 | 3
+resume_present_level_name_en | string | 1/1 | (đã ẩn)
+resume_present_level_name_vn | string | 1/1 | (đã ẩn)
+resume_ref_salary | string | 1/1 | "340.00"
+resume_ref_to_salary | string | 1/1 | "600.00"
+resume_references | array | 1/1 | 
+resume_salary_is_private | boolean | 1/1 | false
+resume_salary_unit | string | 1/1 | "vnd"
+resume_skills | array | 1/1 | (đã ẩn)
+resume_skills[].skill_desc | string | 15/1 | (đã ẩn)
+resume_skills[].skill_id | number | 15/1 | (đã ẩn)
+resume_skills[].skill_level | string | 15/1 | (đã ẩn)
+resume_skills[].skill_name | string | 15/1 | (đã ẩn)
+resume_status | number | 1/1 | 1
+resume_tags | array | 1/1 | 
+resume_target_job_salary | string | 1/1 | "8500000.00"
+resume_target_job_to_salary | string | 1/1 | "15000000.00"
+resume_type | string | 1/1 | "1000"
+resume_type_is_private | boolean | 1/1 | false
+resume_upfile_processing | string | 1/1 | 
+resume_wfh | number | 1/1 | 1
+resume_year_of_experience | number | 1/1 | 1

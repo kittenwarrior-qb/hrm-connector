@@ -1,0 +1,108 @@
+records: 1
+consented_at | null | 1/1 | 
+cs_is_assigned | number | 1/1 | 0
+folder_id | string | 1/1 | "35CE803F"
+folder_name | string | 1/1 | (đã ẩn)
+folder_resume_created_at | string | 1/1 | "2026-09-12T15:06:48.048Z"
+folder_resume_id | string | 1/1 | "381423AB"
+folder_resume_note_content | null | 1/1 | 
+folder_resume_status | number | 1/1 | 0
+folder_resume_target | number | 1/1 | 0
+folder_resume_type | number | 1/1 | 0
+folder_resume_viewed | number | 1/1 | 1
+folder_type | number | 1/1 | 1
+is_consented | boolean | 1/1 | false
+job_id | string | 1/1 | "35C83107"
+job_resume_coincidence | number | 1/1 | 92
+jobseeker_address | string | 1/1 | (đã ẩn)
+jobseeker_address_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_avatar | string | 1/1 | (đã ẩn)
+jobseeker_birthday | string | 1/1 | (đã ẩn)
+jobseeker_country_name_en | string | 1/1 | (đã ẩn)
+jobseeker_country_name_vn | string | 1/1 | (đã ẩn)
+jobseeker_district_name_en | string | 1/1 | (đã ẩn)
+jobseeker_district_name_vn | string | 1/1 | (đã ẩn)
+jobseeker_email | string | 1/1 | (đã ẩn)
+jobseeker_email_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_first_name | string | 1/1 | (đã ẩn)
+jobseeker_fullname | string | 1/1 | (đã ẩn)
+jobseeker_fullname_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_gender | number | 1/1 | 1
+jobseeker_id | string | 1/1 | "361CC9C9"
+jobseeker_is_avatar | number | 1/1 | (đã ẩn)
+jobseeker_last_active_date | string | 1/1 | "2026-09-12T15:39:45.137Z"
+jobseeker_last_name | string | 1/1 | (đã ẩn)
+jobseeker_location_name_en | string | 1/1 | (đã ẩn)
+jobseeker_location_name_vn | string | 1/1 | (đã ẩn)
+jobseeker_marital | number | 1/1 | 0
+jobseeker_marital_is_private | boolean | 1/1 | false
+jobseeker_mobile | string | 1/1 | (đã ẩn)
+jobseeker_mobile_is_private | boolean | 1/1 | (đã ẩn)
+jobseeker_nationality_en | string | 1/1 | "Vietnamese"
+jobseeker_nationality_vn | string | 1/1 | "Người Việt Nam"
+jobseeker_status | number | 1/1 | 1
+letter_content | string | 1/1 | (đã ẩn)
+policy_name | null | 1/1 | (đã ẩn)
+policy_version_no | null | 1/1 | 
+resume_addition_info_vn | string | 1/1 | 
+resume_attachment_url | string | 1/1 | "https://internal-api.careerviet.vn/…"
+resume_benefit_is_private | boolean | 1/1 | false
+resume_benefits | array | 1/1 | 
+resume_confidential | null | 1/1 | 
+resume_countries | array | 1/1 | 
+resume_credit | number | 1/1 | 2
+resume_degree_id | number | 1/1 | 0
+resume_degree_name_en | string | 1/1 | (đã ẩn)
+resume_degree_name_vn | string | 1/1 | (đã ẩn)
+resume_districts | array | 1/1 | "[obj×1]"
+resume_districts[].districts | array | 1/1 | "[obj×1]"
+resume_districts[].districts[].district_id | null | 1/1 | 
+resume_districts[].districts[].district_name_en | string | 1/1 | (đã ẩn)
+resume_districts[].districts[].district_name_vn | string | 1/1 | (đã ẩn)
+resume_districts[].location_id | number | 1/1 | 8
+resume_districts[].location_name | string | 1/1 | (đã ẩn)
+resume_districts[].location_name_en | string | 1/1 | (đã ẩn)
+resume_emp_view | object | 1/1 | 
+resume_emp_view.is_viewed | boolean | 1/1 | true
+resume_emp_view.view_by | string | 1/1 | "apply"
+resume_good_cv_config | object | 1/1 | 
+resume_headline_en | null | 1/1 | 
+resume_headline_vn | string | 1/1 | "ODOO DEVELOPER"
+resume_id | string | 1/1 | "3772A2D2"
+resume_industries | array | 1/1 | "[obj×1]"
+resume_industries[].industry_id | number | 1/1 | 1
+resume_industries[].industry_name_en | string | 1/1 | (đã ẩn)
+resume_industries[].industry_name_vn | string | 1/1 | (đã ẩn)
+resume_is_bad | number | 1/1 | 0
+resume_is_good_cv | null | 1/1 | 
+resume_is_hidden | boolean | 1/1 | false
+resume_is_urgent_job | number | 1/1 | 0
+resume_job_orders | array | 1/1 | 
+resume_kind | number | 1/1 | 2
+resume_languages | array | 1/1 | 
+resume_last_company | null | 1/1 | 
+resume_last_job | null | 1/1 | 
+resume_last_modify | string | 1/1 | "2026-09-12T16:06:01.874Z"
+resume_level_id | number | 1/1 | 3
+resume_level_name_en | string | 1/1 | (đã ẩn)
+resume_level_name_vn | string | 1/1 | (đã ẩn)
+resume_lock_search | number | 1/1 | 0
+resume_objective_vn | null | 1/1 | 
+resume_owner | string | 1/1 | "kiemviec"
+resume_present_level_id | number | 1/1 | 0
+resume_present_level_name_en | null | 1/1 | (đã ẩn)
+resume_present_level_name_vn | null | 1/1 | (đã ẩn)
+resume_ref_salary | string | 1/1 | "0.00"
+resume_ref_to_salary | string | 1/1 | "0.00"
+resume_references | array | 1/1 | 
+resume_salary_is_private | boolean | 1/1 | false
+resume_salary_unit | string | 1/1 | "ltt"
+resume_status | number | 1/1 | 2
+resume_tags | array | 1/1 | 
+resume_target_job_salary | string | 1/1 | "0.00"
+resume_target_job_to_salary | string | 1/1 | "0.00"
+resume_type | string | 1/1 | "0110"
+resume_type_is_private | boolean | 1/1 | false
+resume_upfile_processing | string | 1/1 | "h***f"
+resume_wfh | number | 1/1 | 0
+resume_year_of_experience | number | 1/1 | 1

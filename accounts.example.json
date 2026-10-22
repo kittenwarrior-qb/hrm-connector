@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cv_satori",
+    "source": "careerviet",
+    "label": "CareerViet - Satori",
+    "enabled": true,
+    "username": "hr@example.com",
+    "password": "******",
+    "cookie": "",
+    "delayMs": 1000
+  },
+  {
+    "id": "cv_brand2",
+    "source": "careerviet",
+    "label": "CareerViet - Brand 2",
+    "enabled": false,
+    "username": "hr2@example.com",
+    "password": "******"
+  }
+]

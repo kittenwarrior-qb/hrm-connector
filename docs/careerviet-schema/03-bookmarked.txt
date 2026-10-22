@@ -1,0 +1,43 @@
+records: 18
+country_id | null | 18/18 | 
+created_at | string | 18/18 | "2024-05-16T14:29:33.000Z"
+degree_name_vn | string | 18/18 | (đã ẩn)
+folder_id | number | 18/18 | 2173576
+folder_name | string | 18/18 | (đã ẩn)
+folder_resume_id | number | 18/18 | 33378550
+folder_resume_status | number | 18/18 | 0
+folder_resume_target | number | 18/18 | 2
+folder_resume_type | number | 18/18 | 0
+folder_resume_viewed | number | 18/18 | 1
+fresume_create_date1 | string | 18/18 | "2024-05-16T14:29:33.000Z"
+job_apply_jobseeker_avatar | null | 18/18 | (đã ẩn)
+job_apply_not_delete | null | 18/18 | 
+job_id | null | 18/18 | 
+job_is_public | null | 18/18 | 
+job_resume_coincidence | null | 18/18 | 
+jobseeker_fullname | string | 18/18 | (đã ẩn)
+jobseeker_id | string | 18/18 | "35F54222"
+note_content | null | 18/18 | 
+note_title | null | 18/18 | 
+resume_confidential | null/string | 18/18 | "0000000000"
+resume_country_en | null/string | 18/18 | 
+resume_country_vn | null/string | 18/18 | 
+resume_good_cv_config | string/null | 18/18 | "{\"cv_color\":\"23\",\"cv_template\":\"3\",\"cv_size\":\"fontCVsize14\",\"cv_langua…"
+resume_headline_vn | string | 18/18 | "Trưởng phòng/Giám Đốc Kinh Doanh"
+resume_id | string | 18/18 | "3696572A"
+resume_is_good_cv | number/null | 18/18 | 1
+resume_is_urgent_job | number | 18/18 | 0
+resume_kind | number | 18/18 | 0
+resume_last_company | string/null | 18/18 | "CÔNG TY TNHH SX TM XNK KIM ĐỈNH"
+resume_last_job | string/null | 18/18 | "P Giám Đốc Công ty - Giám đốc kinh doanh"
+resume_last_modify | string | 18/18 | "2024-08-12T16:36:02.000Z"
+resume_location_en | string | 18/18 | " Ho Chi Minh"
+resume_location_vn | string | 18/18 | " Hồ Chí Minh"
+resume_ref_salary | string | 18/18 | "847.00"
+resume_ref_to_salary | string | 18/18 | "1695.00"
+resume_salary_unit | string | 18/18 | "vnd"
+resume_targetjob_salary | string | 18/18 | "20000000.00"
+resume_targetjob_to_salary | string | 18/18 | "40000000.00"
+resume_year_of_experience | number | 18/18 | 14
+status_update | number | 18/18 | 0
+template_id | number/null | 18/18 | 3
